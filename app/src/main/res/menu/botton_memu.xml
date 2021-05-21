@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_home"
+        android:enabled="true"
+        android:icon="@mipmap/ic_home_pressed"
+        android:title="首页"/>
+    <item
+        android:id="@+id/action_community"
+        android:enabled="true"
+        android:icon="@mipmap/ic_community_pressed"
+        android:title="学习"/>
+    <item
+        android:id="@+id/action_affairs"
+        android:enabled="true"
+        android:icon="@mipmap/dangwu_press"
+        android:title="党务"/>
+    <item
+        android:id="@+id/action_life"
+        android:enabled="true"
+        android:icon="@mipmap/ic_life_press"
+        android:title="党建圈"/>
+    <item
+        android:id="@+id/action_mine"
+        android:enabled="true"
+        android:icon="@mipmap/ic_me_pressed"
+        android:title="我的"/>
+</menu>
